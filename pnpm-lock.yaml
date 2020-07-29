@@ -6508,6 +6508,6 @@ packages:
       integrity: sha512-yr2icI4glYaNG+KWONODapy2/jDdMSDnrONSjblABjD9B4Z5LgiircSt8m8sRZFNi08kG9Sm0uSHtEmP3zaEGg==
 specifiers:
   '@babel/core': ^7.9.0
-  parcel: next
+  parcel: ^2.0.0-beta.1
   react: ^16.13.1
   react-dom: ^16.13.1
